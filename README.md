@@ -1,3 +1,3 @@
-# github.com/go-webauthn/x
+# github.com/cctip/x
 
-Low level packages for [github.com/go-webauthn/webauthn](https://github.com/go-webauthn/webauthn).
+Low level packages for [github.com/cctip/webauthn](https://github.com/cctip/webauthn).

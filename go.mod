@@ -1,4 +1,4 @@
-module github.com/cctip/go-webauthn/x
+module github.com/cctip/x
 
 go 1.21
 
